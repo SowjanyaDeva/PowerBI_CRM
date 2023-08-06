@@ -19,7 +19,7 @@ This task requires you to create a dashboard that displays the defined KPIs for 
 
 This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
 
-Task 4: Diversity & Inclusion
+# Task 3: Diversity & Inclusion
 
 Gender balance in the executive suite:
 
